@@ -1,2 +1,2 @@
 # timtal-kilit
-akıllı tahta kilit programı
+Artık tenefüslerolması gerektiği gibi!
