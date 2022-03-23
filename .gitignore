@@ -1,0 +1,10 @@
+
+*.db
+*.cache
+.vs/timtal-tahta/v16/.suo
+*.config
+*.exe
+*.pdb
+*.cs
+*.txt
+*.resources
