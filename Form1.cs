@@ -30,10 +30,27 @@ namespace timtal_tahta
             label1.TextAlign = ContentAlignment.MiddleCenter;
             label1.Dock = DockStyle.Fill;
             timer1.Start();
+            GoFullscreen(true);
 
 
- 
+
         }
+
+        void GoFullscreen(bool fullscreen)
+        {
+            if (fullscreen)
+            {
+                this.WindowState = FormWindowState.Normal;
+                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                this.Bounds = Screen.PrimaryScreen.Bounds;
+            }
+            else
+            {
+                this.WindowState = FormWindowState.Maximized;
+                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
+            }
+        }
+
         void Form_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.K)     
