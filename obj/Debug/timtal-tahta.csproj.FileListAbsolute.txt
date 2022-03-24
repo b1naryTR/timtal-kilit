@@ -9,3 +9,13 @@ C:\Users\HPC1\source\repos\timtal-tahta\bin\Debug\timtal-tahta.exe
 C:\Users\HPC1\source\repos\timtal-tahta\bin\Debug\timtal-tahta.pdb
 C:\Users\HPC1\source\repos\timtal-tahta\obj\Debug\timtal-tahta.exe
 C:\Users\HPC1\source\repos\timtal-tahta\obj\Debug\timtal-tahta.pdb
+C:\Users\muh17\Documents\GitHub\timtal-kilit\bin\Debug\timtal-tahta.exe.config
+C:\Users\muh17\Documents\GitHub\timtal-kilit\bin\Debug\timtal-tahta.exe
+C:\Users\muh17\Documents\GitHub\timtal-kilit\bin\Debug\timtal-tahta.pdb
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal-tahta.csproj.AssemblyReference.cache
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal_tahta.Form1.resources
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal_tahta.Properties.Resources.resources
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal-tahta.csproj.GenerateResource.cache
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal-tahta.csproj.CoreCompileInputs.cache
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal-tahta.exe
+C:\Users\muh17\Documents\GitHub\timtal-kilit\obj\Debug\timtal-tahta.pdb
