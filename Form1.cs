@@ -55,7 +55,7 @@ namespace timtal_tahta
 
         private void label1_Click(object sender, EventArgs e)
         {
-            
+        
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -65,10 +65,25 @@ namespace timtal_tahta
             label2.Text = DateTime.Now.ToString("HH:mm");
             label2.TextAlign = ContentAlignment.TopLeft;
 
-            if (label2.Text == "15:00")
+            if (label2.Text == "00:00")
             {
 
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label17_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
