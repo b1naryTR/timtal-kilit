@@ -1,2 +1,4 @@
 # timtal-kilit
-Artık tenefüslerolması gerektiği gibi!
+Artık tenefüsler olması gerektiği gibi!
+
+TODO: Tüm textboxlar masked a çevrilecek
