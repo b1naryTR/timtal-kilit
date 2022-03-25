@@ -24,3 +24,6 @@ obj/Debug/timtal-tahta.csproj.FileListAbsolute.txt
 obj/Debug/timtal-tahta.csproj.GenerateResource.cache
 obj/Debug/timtal-tahta.exe
 obj/Debug/timtal-tahta.pdb
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+*.resources
+bin/Debug/timtal-tahta.exe.config
